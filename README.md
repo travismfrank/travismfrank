@@ -1,7 +1,7 @@
 ### Hi, I'm Travis 👋
 I write software, design systems, and conduct orchestras.  
 
-🏢 - I'm currently with @placeexchange, building the future of out-of-home advertising.
+🏢 - I'm currently with [Place Exchange](https://www.placeexchange.com/), building the future of out-of-home advertising.
 
 🔭 - I'm a founding contributor of [Obsidian](https://github.com/open-source-labs/obsidian), Deno's first native GraphQL caching client and server module.
 
