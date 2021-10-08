@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi, I'm Travis 👋
+I write software, design systems, and conduct orchestras.  
 
-<!--
-**TravisFrankMTG/TravisFrankMTG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏢 - I'm currently with @placeexchange, building the future of out-of-home advertising.
 
-Here are some ideas to get you started:
+🔭 - I'm a founding contributor of [Obsidian](https://github.com/open-source-labs/obsidian), Deno's first native GraphQL caching client and server module.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 - I'm a lifelong learner, and you can learn with me by following [my writing](http://www.travismfrank.com/).
+
+🎹 - I wrote musicals and conducted orchestras before COVID, and I still enjoy writing and playing with my partner.
+
+⚡️ - Please get in touch if you're searching for a candidate for leadership or engineering roles in the energy transition.
+
+📫 - You can reach me at travis@travismfrank.com.
