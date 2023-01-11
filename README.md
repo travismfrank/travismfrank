@@ -1,7 +1,7 @@
 ### Hi, I'm Travis 👋
 I found organizations, design systems, and conduct orchestras.
 
-🏢 - I'm currently at Show Kit, building productivity software for theatrical production teams.
+🏢 - I'm currently at [Prospero](https://prosperoapp.com), building productivity software for theatrical production teams.
 
 🔭 - I'm a founding contributor of [Obsidian](https://github.com/open-source-labs/obsidian), Deno's first native GraphQL caching layer.
 
