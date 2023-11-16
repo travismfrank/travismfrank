@@ -7,6 +7,6 @@ I found organizations, design systems, and conduct orchestras.
 
 🎓 - I'm a lifelong student, and you can learn with me by following [my writing](http://www.travismfrank.com/).
 
-🎹 - I wrote musicals and conducted orchestras before COVID, and I still enjoy writing and playing with my partner.
+🎹 - I wrote [musicals](https://www.travismfrank.com/music/musicals) and [conducted orchestras](https://www.travismfrank.com/music/reels/conducting) before COVID. I still enjoy writing and playing with my partner.
 
 📫 - You can reach me at travis@travismfrank.com.
